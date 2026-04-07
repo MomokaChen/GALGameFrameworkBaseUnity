@@ -1,4 +1,4 @@
-# GALCoreFramework
+# GALGameFrameworkBaseUnity
 
 一个基于Unity的游戏核心框架，提供了Excel驱动的对话系统和完整的游戏开发基础架构。
 
