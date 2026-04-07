@@ -1,0 +1,58 @@
+# Unity generated files
+Library/
+Temp/
+obj/
+Logs/
+
+# Visual Studio files
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# VSCode
+.vscode/
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Build files
+*.apk
+*.aab
+*.exe
+*.dll
+*.so
+*.bundle
+
+# StreamingAssets
+StreamingAssets/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Editor settings
+*.meta
+*.asset
+*.prefab
+*.unity
+*.mat
+
+# Test files
+*.tests
+*.testresults
+
+# Cache files
+*.cache
+*.cache.meta
